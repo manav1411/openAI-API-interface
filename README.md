@@ -7,6 +7,7 @@ creates a visually pleasing interface OpenAI API tokens.
 3. write your query (can be multiple lines). press cmd+d when done.
 4. get the gpt4 response!
 
+
 **use case**:
 
 gpt plus is prohibitivley expensive. The gpt API is significantly cheaper, however it was intedneded to be used by developers for client-facing applications. To even send a simple query to the OpenAI API, significant work is required - which is where my python script comes in.
