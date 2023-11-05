@@ -2,7 +2,7 @@
 creates a visually pleasing interface OpenAI API tokens.
 
 **instructions**:
-1. provide your own OpenAI API token in the python code in the <your API token> section
+1. provide your own OpenAI API token in the python code in the "your API token" section
 2. pip install all the dependency warnings you get. (use pip3 if you're using python3)
 3. run the program by doing python gpt4.py (or python3 gpt4.py if you're using python3)
 4. write your query (can be multiple lines). press cmd+d when done.
